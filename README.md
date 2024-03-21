@@ -5,11 +5,11 @@
 [![Mail Badge](https://img.shields.io/badge/-kevinhall@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kevinhall@qq.com)](kevinhall@qq.com)
 [![](https://img.shields.io/github/stars/kevinhall1998?color=fefb7b&logo=Undertale)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=kevinhall1998&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![](https://img.shields.io/github/stars/connectai-e/dingtalk-openai?color=fefb7b)](https://github.com/connectai-e/dingtalk-openai)
 [![](https://img.shields.io/github/followers/kevinhall1998?color=27da6b&logo=Handshake)](https://github.com/kevinhall1998?tab=followers)
-[![](https://img.shields.io/badge/CSDN博客?logo=Blogger)](https://blog.csdn.net/qq_39667443)
-[![website](https://img.shields.io/badge/https://licardo.cn-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://blog.csdn.net/qq_39667443)
+[![website](https://img.shields.io/badge/CSDN-博客-orange)](https://blog.csdn.net/qq_39667443)
 ### 技术栈
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
