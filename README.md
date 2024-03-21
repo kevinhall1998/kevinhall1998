@@ -1,5 +1,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=kevinhall1998&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinhall1998&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinhall1998&layout=compact&theme=white)
 ### 🤗 欢迎来访
 [![](https://visitor-badge.laobi.icu/badge?page_id=kevinhall1998.kevinhall1998)](https://visitor-badge.laobi.icu/badge?page_id=kevinhall1998.kevinhall1998)
 [![Mail Badge](https://img.shields.io/badge/-kevinhall@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kevinhall@qq.com)](kevinhall@qq.com)
