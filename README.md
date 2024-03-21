@@ -3,7 +3,7 @@
 ### 🤗 欢迎来访
 [![](https://visitor-badge.laobi.icu/badge?page_id=kevinhall1998.kevinhall1998)](https://visitor-badge.laobi.icu/badge?page_id=kevinhall1998.kevinhall1998)
 [![Mail Badge](https://img.shields.io/badge/-kevinhall@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kevinhall@qq.com)](kevinhall@qq.com)
-[![](https://img.shields.io/github/stars/kevinhall1998?color=fefb7b&logo=Undertale)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=kevinhall1998&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![](https://img.shields.io/github/stars/connectai-e/dingtalk-openai?color=fefb7b)](https://github.com/connectai-e/dingtalk-openai)
+[![](https://img.shields.io/github/stars/kevinhall1998?color=fefb7b&logo=Undertale)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=kevinhall1998&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 [![](https://img.shields.io/github/followers/kevinhall1998?color=27da6b&logo=Handshake)](https://github.com/kevinhall1998?tab=followers)
 [![website](https://img.shields.io/badge/CSDN-博客-orange)](https://blog.csdn.net/qq_39667443)
 ### 技术栈
