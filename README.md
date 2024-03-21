@@ -1,2 +1,2 @@
 ![](https://github-readme-stats.vercel.app/api?username=kevinhall1998&show_icons=true&theme=transparent)
-![Visitor Count](https://profile-counter.glitch.me/kevinhall1998/count.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinhall1998&layout=compact&theme=tokyonight)
